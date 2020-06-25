@@ -2,7 +2,7 @@
 Full backport from IRIS for Windows (x86-64) 2020.1 (Build 215U) Mon Mar 30 2020 20:14:33 EDT
 
 IRIS brought us an excellent %JSON.Package   
-It is a essential component of the Project Manager (ZPM)  
+It is an essential component of the Project Manager (ZPM)  
 This backport makes it available also in Caché and builds a base to evetually backport of ZPM.  
 
 As writing to SYSLIB / IRISLIB is a srict NO-NO all .cls and .inc names now start with %Z*  
@@ -11,7 +11,7 @@ Names of Properties & Methods inside the classes didn't change.
 An extension of specifc error codes was required as they don'r t exist in Caché  
 
 ### installation & content  ###  
-As ZPM is not available (yet?) the tradional install of a package as .XML applies.  
+As ZPM is not available (yet?) the traditional install of a package as .XML applies.  
 It is all packed into %ZJSON.XML  
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
@@ -31,7 +31,7 @@ It is all packed into %ZJSON.XML
 </Project>
 </Export>
 
-I just tested it in Namespace "%SYS" with Studio inport + compile   
+I just tested it in Namespace "%SYS" with Studio import + compile   
 
 ### examples ###
 
