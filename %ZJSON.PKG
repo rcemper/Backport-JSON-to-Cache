@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+<Project name="%ZJSON" LastModified="2020-06-25 11:43:23.331591">
+  <Items>
+    <ProjectItem name="%ZJSON.Adaptor" type="CLS"></ProjectItem>
+    <ProjectItem name="%ZJSON.Formatter" type="CLS"></ProjectItem>
+    <ProjectItem name="%ZJSON.Generator" type="CLS"></ProjectItem>
+    <ProjectItem name="%ZJSON.Mapping" type="CLS"></ProjectItem>
+    <ProjectItem name="%ZJSON.MappingProperty" type="CLS"></ProjectItem>
+    <ProjectItem name="%ZJSON.PropertyParameters" type="CLS"></ProjectItem>
+    <ProjectItem name="%ZJSON.RawString" type="CLS"></ProjectItem>
+    <ProjectItem name="%ZPVA.INC" type="MAC"></ProjectItem>
+    <ProjectItem name="%ZjsonErrors.INC" type="MAC"></ProjectItem>
+    <ProjectItem name="%ZjsonMap.INC" type="MAC"></ProjectItem>
+  </Items>
+</Project>
+</Export>
