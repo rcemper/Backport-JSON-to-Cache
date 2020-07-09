@@ -1,6 +1,9 @@
 # Backport %JSON.* to Caché  
 Full backport from IRIS for Windows (x86-64) 2020.1 (Build 215U) Mon Mar 30 2020 20:14:33 EDT
 
+> :warning: 
+> **Warning**: This project is NOT official InterSystems software and is therefore supported ONLY by the developer community.
+
 IRIS brought us an excellent %JSON.Package   
 It is an essential component of the Project Manager (ZPM)  
 This backport makes it available also in Caché and builds a base to eventually backport also ZPM.  
