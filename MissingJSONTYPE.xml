@@ -3,10 +3,6 @@
 <Class name="%ZJSON.Generator">
 <Description><![CDATA[
 Generator methods for %ZJSON.Adaptor.<br><br>
-
-This class is used internally by InterSystems IRIS. You should not make direct
-use of it within your applications. There is no guarantee made about either
-the behavior or future operation of this class.
 adjusted for Caché to bypass missing parameter JSONTYPE by rcc; July 2020
 ]]></Description>
 <Abstract>1</Abstract>
